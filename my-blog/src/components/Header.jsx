@@ -1,7 +1,7 @@
 import blogLogo from './blogLogo.png'
 function Header(){
     return (
-        <div className="w-full flex justify-center shadow-lg">
+        <div className="w-full flex justify-center shadow-lg fixed bg-white">
             <div className="w-2/3 mx-auto flex items-center justify-between py-4">
                 <div className='flex justify-center items-center'>
                     <img className="h-10" alt='logo' src={blogLogo}/>
