@@ -13,7 +13,7 @@ Welcome to my **90 Days of Development** challenge! 🎯 Over the next 90 days, 
 
 | Day | Date | Activity | Repository / Notes |
 |-----|------|----------|--------------------|
-| 1   | YYYY-MM-DD | Started learning React.js | [Repo](#) |
+| 1   | 2025-03-01 | Started learning React.js | [Repo](#) |
 | 2   | YYYY-MM-DD | Built a simple API using Node.js | [Repo](#) |
 | ... | ... | ... | ... |
 | 90  | YYYY-MM-DD | Completed the challenge! 🎉 | [Final Notes](#) |
